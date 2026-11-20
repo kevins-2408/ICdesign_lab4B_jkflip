@@ -1,10 +1,10 @@
 # Tiny Tapeout project information (Wokwi project)
 project:
   wokwi_id:     480590474606138369       # Set this to the ID of your Wokwi project (the number from the project's URL)
-  title:        "Lab 4B JK-flip-flop"      # Project title
+  title:        "Lab_4B_JK-flip-flop"      # Project title
   author:       "Kevin Stroup"      # Your name
   discord:      ""      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
-  description:  "This is a basic JK flip flow"      # One line description of what your project does
+  description:  "This is a basic JK flip flop."      # One line description of what your project does
   language:     "Wokwi" # other examples include SystemVerilog, Amaranth, VHDL, etc
   clock_hz:     0.5       # Clock frequency in Hz (or 0 if not applicable)
 
