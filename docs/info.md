@@ -17,4 +17,4 @@ Try out different clock signals and J and K and see the output change.
 
 ## External hardware
 
-Button for clock signal, switches for J and K, and 2 LEDs for output.
+Button/clock generator for clock signal, switches for J and K, and 2 LEDs for output.
